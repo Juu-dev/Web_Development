@@ -1,3 +1,5 @@
+<div style = "text-align:center;">
+
 <img src = "https://devmountain.com/wp-content/uploads/2022/04/Language-for-Web-Dev-Blog-1a-1.jpg" />
 
 <br/>
@@ -25,3 +27,5 @@
 <img src = "https://jaydevs.com/wp-content/uploads/2021/12/3-8.jpg" />
 
 <img src = "https://coursereport-production.imgix.net/rich/rich_files/rich_files/6262/s1200/front-20end-20development-20vs-20back-20end-20development-20infographic-20-20course-20report.png?auto=compress%2Cformat&w=&h=" />
+
+</div>
